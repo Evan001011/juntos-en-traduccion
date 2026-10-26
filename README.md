@@ -8,10 +8,6 @@ Built for a school community's volunteer tutoring program.
 
 ---
 
-## The problem
-
-Post-pandemic learning loss hit hardest in districts where private tutoring is out of reach. At the same time, high-school students need verified service hours and real leadership experience. Juntos connects the two with a safe, supervised, data-driven loop:
-
 1. A student shares the subjects they need and the hours they are free.
 2. The matching engine ranks approved volunteers by subject overlap, shared availability, language and past sessions.
 3. A 45-minute session is booked with one click, with a Google Meet link and a calendar invite.
